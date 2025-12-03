@@ -122,14 +122,6 @@ Singleton {
     }
   }
 
-  // Hyprland backend component
-  Component {
-    id: hyprlandComponent
-    HyprlandService {
-      id: hyprlandBackend
-    }
-  }
-
   // Niri backend component
   Component {
     id: niriComponent

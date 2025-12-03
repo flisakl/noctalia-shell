@@ -1,5 +1,7 @@
 # Noctalia shell
 
+[!NOTE] Hyperland support has been removed in this fork.
+
 **_quiet by design_**
 
 <p align="center">
